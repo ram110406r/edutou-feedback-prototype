@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1759837973529,
+    "name": "Test User",
+    "rating": 5,
+    "comment": "Great app!",
+    "anonymous": false,
+    "created_at": "2025-10-07T11:52:53.530Z"
+  },
+  {
+    "id": 1759837973530,
+    "name": "Sarah Johnson",
+    "rating": 5,
+    "comment": "Absolutely love the design and functionality! Very intuitive interface.",
+    "anonymous": false,
+    "created_at": "2025-10-06T14:30:00.000Z"
+  },
+  {
+    "id": 1759837973531,
+    "name": "Anonymous",
+    "rating": 4,
+    "comment": "Great experience overall, but could use some additional features.",
+    "anonymous": true,
+    "created_at": "2025-10-06T10:15:00.000Z"
+  },
+  {
+    "id": 1759837973532,
+    "name": "Michael Chen",
+    "rating": 5,
+    "comment": "Best feedback system I've used. Clean and professional!",
+    "anonymous": false,
+    "created_at": "2025-10-05T16:45:00.000Z"
+  },
+  {
+    "id": 1759837973533,
+    "name": "Anonymous",
+    "rating": 3,
+    "comment": "Good but needs improvement in the analytics section.",
+    "anonymous": true,
+    "created_at": "2025-10-05T09:20:00.000Z"
+  },
+  {
+    "id": 1759837973534,
+    "name": "Emily Rodriguez",
+    "rating": 4,
+    "comment": "Very user-friendly and the CSV export feature is awesome!",
+    "anonymous": false,
+    "created_at": "2025-10-04T18:00:00.000Z"
+  },
+  {
+    "id": 1759837973535,
+    "name": "David Kim",
+    "rating": 5,
+    "comment": "Perfect for our needs. The star rating system is very smooth.",
+    "anonymous": false,
+    "created_at": "2025-10-04T12:30:00.000Z"
+  },
+  {
+    "id": 1759837973536,
+    "name": "Anonymous",
+    "rating": 4,
+    "comment": "Really like the anonymous option. Makes me feel comfortable sharing honest feedback.",
+    "anonymous": true,
+    "created_at": "2025-10-03T15:10:00.000Z"
+  },
+  {
+    "id": 1759837973537,
+    "name": "Lisa Anderson",
+    "rating": 5,
+    "comment": "The admin dashboard is beautiful! Charts are very clear and informative.",
+    "anonymous": false,
+    "created_at": "2025-10-03T11:25:00.000Z"
+  },
+  {
+    "id": 1759837973538,
+    "name": "James Wilson",
+    "rating": 4,
+    "comment": "Solid feedback system. Would recommend to others.",
+    "anonymous": false,
+    "created_at": "2025-10-02T14:50:00.000Z"
+  },
+  {
+    "id": 1759838106940,
+    "name": "Test User",
+    "rating": 5,
+    "comment": "This is a test feedback",
+    "anonymous": false,
+    "created_at": "2025-10-07T11:55:06.940Z"
+  }
+]
